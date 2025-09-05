@@ -1,0 +1,7 @@
+/target/
+/bin/
+/apache-tomcat-*/
+.classpath
+.project
+.settings/
+.factorypath
